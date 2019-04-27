@@ -108,7 +108,7 @@ connection.query('SELECT * FROM Products', function(err, res){
                  
                   connection.query('UPDATE Departments SET ? WHERE ?', [{TotalSales: totalSales}, {DepartmentName: itemDepartment}], function(err, res){
                     if(err) throw err; // Error Handler
-                    console.log('All Right! Your Set and Good To Go. Thank you for Shopping with Louis\'s!')
+                    console.log('All Right! Your Set and Good To Go. Thank you for Shopping with Louis\'s Bamazon!')
                     connection.end();
                     // end of the script
 
