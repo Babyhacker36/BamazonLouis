@@ -1,7 +1,5 @@
 # BamazonLouis
-
-
-# :collision: BAMazon :computer: :package:
+Created by Louis Carter
 
 ### Overview
 I created a simple application that works and operates like an amazon store front. the point of the application is to allow users to go into the store and allow them to make selections based on the products that are listed and available.
