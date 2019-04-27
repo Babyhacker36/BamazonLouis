@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "My Example of an amazon type site.",
+  "main": "BamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babyhacker36/BamazonLouis.git"
+  },
+  "author": "Louis Carter babyhacker36",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babyhacker36/BamazonLouis/issues"
+  },
+  "homepage": "https://github.com/BamazonLouis/BamazonLouis#readme",
+  
+  "dependencies": {
+    "mysql": "^2.11.1",
+    "prompt": "^1.0.0"
+  }
+}
