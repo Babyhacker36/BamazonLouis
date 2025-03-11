@@ -16,11 +16,6 @@ Json
 
 - `BamazonCustomer.js` 
 
-Watch the video Here ================
-
-
-
-
 
 
 ### MySQL
