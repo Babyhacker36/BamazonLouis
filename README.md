@@ -1,21 +1,17 @@
-# BamazonLouis
-Created by Louis Carter
+## Author
+**Lou Carter**  
+GitHub: [github.com/Babyhacker36](https://github.com/Babyhacker36)  
+LinkedIn: [linkedin.com/in/louiscarterjr/](https://www.linkedin.com/in/louiscarterjr/)  
+Website : [louiscarterjr.com]( https://louiscarterjr.com/)  
 
-### Overview
-I created a simple application that works and operates like an amazon store front. the point of the application is to allow users to go into the store and allow them to make selections based on the products that are listed and available.
+## Message From Lou
+This application simulates an Amazon-style storefront, allowing users to browse available products and make selections. Once a user chooses a product, the system prompts them with a series of questions to refine their selection, then calculates the total cost based on their choices.The backend is powered by MySQL, which handles data storage and retrieval, while Node.js processes user interactions and manages transactions.
 
-the application ises mysql and databases on the back end to store and retrieve data. Once the user makes a selection the node.js progam will start to ask a series of questions for the usere allow them to select a product and the program will then calculate their total. 
-
-
-Technology Used:
-
+Technologies Used:
 Node.js
-javasctipt 
-Mysql
-Json
-
-- `BamazonCustomer.js` 
-
+JavaScript
+MySQL
+JSON
 
 
 ### MySQL
